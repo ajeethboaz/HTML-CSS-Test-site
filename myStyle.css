@@ -69,6 +69,7 @@ span.centerImage {
 
 #about
 {
+
 	padding-top:10px;
 	padding-bottom:10px;
 	font-family:"Arial";
@@ -92,9 +93,9 @@ span.centerImage {
 }
 
  p.aboutmeText:first-letter{
-               text-transform: uppercase;
-			   font-size:150%;
-          }
+   text-transform: uppercase;
+   font-size:150%;
+}
 		  
 .aboutme
 {
